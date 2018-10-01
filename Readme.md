@@ -1,5 +1,6 @@
 A native Javascript client built for Multichain and Bitcoin
 ---------------------------------------------------
+Note: Experimental update to support up to 2.0 Alpha 5
 
 Note: The current version is compatible with Multichain 1.0.x. For previous versions of Multichain that may be incompatible, see [Releases](https://github.com/scoin/multichain-node/releases).
 
